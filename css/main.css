@@ -121,7 +121,7 @@ h1 {
 
 .research {
 	color: #fff;
-	background: url(../imgs/tissue.jpg) repeat fixed 100%;
+	background: url(../imgs/tissue.JPG) repeat fixed 100%;
 	background-size: cover;
 	min-height: 300px;
 }
@@ -137,7 +137,7 @@ h1 {
 */
 
 .apply {
-	background: url(../imgs/apply.jpg) repeat fixed 100%;
+	background: url(../imgs/apply.JPG) repeat fixed 100%;
 	background-size: cover;
 	color: #fff;
 	min-height: 50vh;
